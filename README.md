@@ -1,6 +1,6 @@
 # Convolutional Codes for Satellite Communication
 
-**Instructor:** Prof. Yash Vasavada (Dean Research) 
+**Instructor:** Prof. Yash Vasavada (Dean Research)\n
 **Institution:** Dhirubhai Ambani University (DAU)  
 
 ---
