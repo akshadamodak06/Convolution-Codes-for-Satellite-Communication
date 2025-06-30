@@ -26,14 +26,13 @@ In addition to channel coding, **Lloyd-Max quantization** was applied during the
 
 ## Project Structure  
 
-| File                              | Description                                       |
-|-----------------------------------|---------------------------------------------------|
-| `encoder.py / encoder.ipynb`      | Convolutional encoder implementation              |
-| `decoder.py / decoder.ipynb`      | Viterbi decoding algorithm                        |
-| `lloyd_max_quantization.py`       | Lloyd-Max quantizer for source encoding           |
-| `simulation.py / simulation.ipynb`| End-to-end BER simulation with AWGN               |
-| `plots/`                          | BER graphs, trellis visuals, decoder tracebacks   |
-| `README.md`                       | Project documentation                             |
+| Folder/File      | Description                                                        |
+|------------------|--------------------------------------------------------------------|
+| `codes/`         | Source code for convolutional encoding, decoding, and simulation    |
+| `analysis/`      | Data analysis, BER results, and trellis interpretation             |
+| `ppt/`           | Presentation slides summarizing project objectives and outcomes     |
+| `report/`        | Detailed technical report covering methodology and results         |
+| `README.md`      | Project documentation and overview                                 |
 
 ---
 
